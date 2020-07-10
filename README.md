@@ -1,0 +1,1 @@
+Problema com a pasta roslyn, desinstale o pacote Microsoft.CodeDom.Providers.DotNetCompilerPlataform com Nuget e instale novamente
